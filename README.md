@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil :>
 
-<!--
-**Jacaraph/Jacaraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jacaraph
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Uso esse espaço para organizar e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você entrar em contato comigo 📫
+
+  00001147650846sp@al.educacao.educacao.sp.gov.br
+
+ @hidromel000
+
+![](https://media.tenor.com/9DHk4FZffLoAAAAi/funny-as.gif)
